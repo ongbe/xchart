@@ -3,7 +3,7 @@
 #define _TEST_H_
 
 
-namespace graph
+namespace xchart
 {
     class test
     {
