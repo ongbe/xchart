@@ -3,9 +3,9 @@
 #define _TEST_H_
 
 
-namespace graph
+namespace Graph
 {
-    class test
+    class Test
     {
     };
 }
