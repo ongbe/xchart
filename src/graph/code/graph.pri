@@ -14,6 +14,7 @@ DEPENDPATH += \
 
 HEADERS += \
         $$PWD/inc/test.h
+        $$PWD/inc/graph_renderer.h
 
 SOURCES += \
-        $$PWD/cpp/test.cpp
+        $$PWD/cpp/graph_renderer.cpp
