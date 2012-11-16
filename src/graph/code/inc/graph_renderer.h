@@ -6,7 +6,7 @@
 
 namespace Graph
 {
-    class Renderer
+    class GraphRenderer
     {
     };
 
