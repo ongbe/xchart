@@ -18,7 +18,7 @@ INCLUDEPATH += . \
 
 #GRAPH_LIB_PATH = $$PWD/../../../../../deployment/libs/graph_lib/unix/
 #unix:LIBS += -L$${GRAPH_LIB_PATH} -lgraph_lib
-include($$PWD/../../../graph_lib/code/graph_lib.pri)
+include($$PWD/../../../graph/code/graph_lib.pri)
 include($$PWD/../../code/chart.pri)
 
 HEADERS += \

@@ -14,7 +14,7 @@ DEPENDPATH += . \
 INCLUDEPATH += . \
         $$PWD/../../code/inc/ \
 
-include($$PWD/../../../graph_lib/code/graph_lib.pri)
+include($$PWD/../../../graph/code/graph_lib.pri)
 include($$PWD/../../code/chart.pri)
 
 HEADERS += \
